@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "637047071794",
+    "project_id": "fir-notification-dc899",
+    "storage_bucket": "fir-notification-dc899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637047071794:android:09359eaf5447ccac02082b",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637047071794-6a6agftfrc3fo5c9lap69m7srcg1ui1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QHLD7S4z-DYjTrQmYVoUELaC4iqp4WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637047071794-6a6agftfrc3fo5c9lap69m7srcg1ui1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637047071794:android:14220f08ebb7500802082b",
+        "android_client_info": {
+          "package_name": "com.shamim.pushnotificationwithjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637047071794-6a6agftfrc3fo5c9lap69m7srcg1ui1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QHLD7S4z-DYjTrQmYVoUELaC4iqp4WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637047071794-6a6agftfrc3fo5c9lap69m7srcg1ui1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
